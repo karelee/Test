@@ -11,7 +11,7 @@
   js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2&appId=238392246230547&autoLogAppEvents=1';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-page" data-href="https://www.facebook.com/marineatlanticferries" data-tabs="timeline,events" height="800" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/marineatlanticferries" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/marineatlanticferries">MAI Ferries</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/marineatlanticferries" data-tabs="timeline" data-height="800" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/marineatlanticferries" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/marineatlanticferries">Marine Atlantic</a></blockquote></div>
 ]]>
 </Content>
 </Module>
