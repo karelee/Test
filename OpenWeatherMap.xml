@@ -1,2 +1,12 @@
+<!--  Tutorial_01_Hello_Facebook (XML)  -->
+<Module specificationVersion="2">
+<ModulePrefs title="Facebook Feed"> </ModulePrefs>
+<Content type="html">
+<![CDATA[ 
+
 <div id="openweathermap-widget-17"></div>
 <script>window.myWidgetParam ? window.myWidgetParam : window.myWidgetParam = [];  window.myWidgetParam.push({id: 17,cityid: '7732472',appid: '87065cd539135a9440a8adb861ec73cb',units: 'metric',containerid: 'openweathermap-widget-17',  });  (function() {var script = document.createElement('script');script.async = true;script.charset = "utf-8";script.src = "//openweathermap.org/themes/openweathermap/assets/vendor/owm/js/weather-widget-generator.js";var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(script, s);  })();</script>
+
+]]>
+</Content>
+</Module>
