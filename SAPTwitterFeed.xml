@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New document created with Notepad at Tue Feb 23 12:40:00 CDT 2016 -->
+
+
+ <Module>
+   <ModulePrefs title="SAP Twitter" description="SAPTwitter OpenSocial Gadget" author="Deloitte" height="800">
+     <Link rel="Icon" href="twitter.PNG"/>
+     <Link rel="MediumIcon" href="MediumTwitter.png"/>
+   </ModulePrefs>
+   <Content type="url" href="SAPTwitterFeed.html"/>
+ </Module>
