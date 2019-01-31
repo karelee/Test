@@ -13,8 +13,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-page" 
   data-href="https://www.facebook.com/marineatlanticferries"
-  data-adapt-container-width="true"
-  data-adapt-container-height="true"
+  data-width="true"
   data-hide-cover="false"
   data-show-facepile="false"></div>
 ]]>
