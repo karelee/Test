@@ -1,6 +1,6 @@
 <!--  Tutorial_01_Hello_Facebook (XML)  -->
 <Module specificationVersion="2">
-<ModulePrefs title="Facebook Feed"> </ModulePrefs>
+<ModulePrefs title="Facebook Page" description="Facebook OpenSocial Gadget" author="Deloitte"> </ModulePrefs>
 <Content type="html">
 <![CDATA[ 
 <div id="fb-root"></div>
@@ -19,6 +19,4 @@
   data-adapt-container-height="true"
   data-hide-cover="false"
   data-show-facepile="false"></div>
-]]>
-</Content>
-</Module>
+]]> </Content> </Module>
