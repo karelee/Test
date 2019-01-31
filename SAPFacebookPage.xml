@@ -1,7 +1,7 @@
 <!--  Tutorial_01_Hello_Facebook (XML)  -->
 <Module specificationVersion="2">
-<ModulePrefs title="Facebook Page" description="Facebook OpenSocial Gadget" author="Deloitte" height="150"> 
-<Link rel="Icon" href="Facebook.PNG"/></ModulePrefs>
+<ModulePrefs title="Facebook Page" description="Facebook OpenSocial Gadget" author="Deloitte" height="140"> 
+<Link rel="Icon" href="Facebook.png"/></ModulePrefs>
 <Content type="html">
 <![CDATA[ 
 <div id="fb-root"></div>
@@ -14,7 +14,7 @@
 }(document, 'script', 'facebook-jssdk'));</script>
 <div class="fb-page" 
   data-href="https://www.facebook.com/marineatlanticferries"
-  data-width="280"
+  data-width="285"
   data-adapt-container-width="true"
   data-adapt-container-height="true"
   data-hide-cover="false"
